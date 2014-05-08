@@ -1,0 +1,10 @@
+project-review
+==============
+
+Repository for handling / organizing the project reviwe process
+
+This repository supports the project review process for the AmI-2014 course, taught at Politecnico di Torino.
+
+Groups participating to the course may book project consultancy by opening an issue on this repository, reporting the group name, and a brief description of required consultancy.
+
+Project review results might also be uploaded as files on the repository and will be accessible to groups.
